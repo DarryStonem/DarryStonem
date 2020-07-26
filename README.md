@@ -2,14 +2,14 @@
 
 ### Hi, I'm Cristian (or Darry 😅)
 
-Hello! I'm Cristian, but my friends calls me Darry. 
+Hello! I'm Cristian, but my friends call me Darry. 
 
-I'm a mobile apps with Xamarin (iOS & Android) and I'm also an Azure Developer from México City 🇲🇽🌮
+I'm a Mobile App Developer with Xamarin (iOS & Android) and I'm also an Azure Developer from México City 🇲🇽🌮
 
 - 🔭 I’m currently working creating awesome apps!
 - 🌱 I’m currently learning more about DevOps & Cloud Computing.
 - 🗣 My primary language is Spanish.
-- 🛂 I enjoy traveling. 2019 was an awesome year! 
+- 🛂 I enjoy traveling: 2019 was an awesome year! 🛫
 - 😬 And I enjoy giving talks about Xamarin, Azure, Bitrise, and of course, Github!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarryStonem)](https://github.com/anuraghazra/github-readme-stats)
