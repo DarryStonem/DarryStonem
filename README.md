@@ -8,7 +8,7 @@ I'm a Mobile App Developer with Xamarin (iOS & Android) and I'm also an Azure De
 
 - 🔭 I’m currently working creating awesome apps!
 - 🌱 I’m currently learning more about DevOps & Cloud Computing.
-- 🗣 My primary language is Spanish.
+- 🗣 My main language is Spanish.
 - 🛂 I enjoy traveling: 2019 was an awesome year! 🛫
 - 😬 And I enjoy giving talks about Xamarin, Azure, Bitrise, and of course, Github!!
 
