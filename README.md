@@ -10,7 +10,7 @@ I'm a Mobile App Developer with Xamarin (iOS & Android) and I'm also an Azure De
 - 🌱 I’m currently learning more about DevOps & Cloud Computing.
 - 🗣 My primary language is Spanish.
 - 🛂 I enjoy traveling: 2019 was an awesome year! 🛫
-- 😬 And I enjoy giving talks about Xamarin, Azure, Bitrise, and of course, Github!
+- 😬 And I enjoy giving talks about Xamarin, Azure, Bitrise, and of course, Github!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarryStonem)](https://github.com/anuraghazra/github-readme-stats)
 
