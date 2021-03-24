@@ -2,7 +2,7 @@
 
 ### Hi, I'm Cristian (or Darry 😅)
 
-Hello! I'm Cristian, but my friends call me Cris, and some others, Darry. 
+Hello! I'm Cristian, my friends call me Cris, and some others Darry. 
 
 I'm a Mobile App Developer with Xamarin (iOS & Android) and I'm also an Azure Developer from México City 🇲🇽🌮
 
@@ -12,19 +12,4 @@ I'm a Mobile App Developer with Xamarin (iOS & Android) and I'm also an Azure De
 - 🛂 I enjoy traveling: 2019 was an awesome year! 🛫
 - 😬 And I enjoy giving talks about Xamarin, Azure, Bitrise, and of course, Github!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarryStonem)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**DarryStonem/DarryStonem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarryStonem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
