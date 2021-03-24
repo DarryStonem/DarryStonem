@@ -12,4 +12,4 @@ I'm a Mobile App Developer with Xamarin (iOS & Android) and I'm also an Azure De
 - 🛂 I enjoy traveling: 2019 was an awesome year! 🛫
 - 😬 And I enjoy giving talks about Xamarin, Azure, Bitrise, and of course, Github!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarryStonem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarryStonem&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
