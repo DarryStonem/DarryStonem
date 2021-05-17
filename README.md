@@ -2,7 +2,7 @@
 
 ### Hi, I'm Cristian (or Darry 😅)
 
-Hello! I'm Cristian, my friends call me Cris, and some others Darry. 
+Hey! I'm Cristian, but you can call me Cris or Darry
 
 I'm a Mobile App Developer with Xamarin (iOS & Android) and I'm also an Azure Developer from México City 🇲🇽🌮
 
