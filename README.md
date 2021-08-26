@@ -2,14 +2,10 @@
 
 ### Hi, I'm Cristian (or Darry 😅)
 
-Hey! I'm Cristian, but you can call me Cris or Darry
+I'm a Mobile App Developer with Xamarin (iOS & Android) and Azure Developer from México City 🇲🇽🌮
 
-I'm a Mobile App Developer with Xamarin (iOS & Android) and I'm also an Azure Developer from México City 🇲🇽🌮
-
-- 🔭 I’m currently working creating awesome apps!
-- 🌱 I’m currently learning more about DevOps & Cloud Computing.
-- 🗣 My main language is Spanish.
-- 🛂 I enjoy traveling: 2019 was an awesome year! 🛫
-- 😬 And I enjoy giving talks about Xamarin, Azure, Bitrise, and of course, Github!!
+- 📲  Ask me about Xamarin, .NET, Azure, GitHub, DevOps & more! (And I enjoy talking at conferences too! 🤓)
+- 🗣  You can contact me on [Twitter](https://twitter.com/DarryStonem), [LinkedIn](https://www.linkedin.com/in/cristiangonzalez10)
+- 🛂  I enjoy traveling: 2019 was an awesome year! 🛫
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarryStonem&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
