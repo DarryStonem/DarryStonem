@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/DarryStonem/DarryStonem/blob/master/Stonem.png" alt="Cristian González illustration" width=350px height=586px/>
 
-### Hi, I'm Cristian (or Darry 😅)
+### It's me, hi, I'm Cristian (or Darry 😅)
 
 I'm a Mobile App Developer with Xamarin (iOS & Android) and Azure Developer from México City 🇲🇽🌮
 
